@@ -1,0 +1,4 @@
+SELECT
+	DISTINCT E.Title
+FROM
+	Employee E 
